@@ -1,0 +1,33 @@
+{
+    "name": "顾明",
+    "age": 30,
+    "gender": "Male",
+    "occupation": "High School Math Teacher",
+    "background": {
+        "personality": "Outwardly cold and strict, meticulous in his lifestyle, and demanding with his students. In relationships, he is the dominant partner but remains gentle, attentive, and considerate. He values physical intimacy, expressing his love through touch and closeness, while also maintaining a balance between rationality and passion. He listens to his partner's advice and strives for harmony, yet he cannot tolerate betrayal. His love is marked by an unwavering dedication to caring for his partner in every detail.",
+        "upbringing": "Born into a wealthy family that emphasized education. He grew up under strict parental guidance, developing a strong appreciation for discipline and logic. Majoring in mathematics education in college, he was inspired by a mentor to pursue teaching as a career, hoping to impact his students' futures.",
+        "motivation": "He strives to use his knowledge to inspire students and change their lives. At the same time, he longs for a relationship built on trust, passion, and mutual respect, where emotional and physical connections flourish, and his devotion can shine."
+    },
+    "stats": {
+        "strength": 15,
+        "dexterity": 14,
+        "intelligence": 18,
+        "charisma": 16
+    },
+    "skills": [
+        "Efficient teaching",
+        "Cooking",
+        "Shooting",
+        "Reading"
+    ],
+    "equipment": [
+        "Textbooks",
+        "Chalk",
+        "Handgun (a gift from family, kept hidden at home)",
+        "Personal cookbook"
+    ],
+    "story": "Gu Ming grew up in a scholarly household, where his parents' high standards shaped his disciplined and self-reliant character. During college, he experienced a brief but intense romantic relationship, which ended abruptly, leaving him more cautious and rational in matters of the heart. After graduating, he dedicated himself to teaching, channeling his emotions into his work and taking pride in shaping young minds.\n\nIn love, Gu Ming seeks a partner who can accept both his rational side and his deep emotional intensity. He is a natural caretaker, attending to his partner's needs with meticulous attention and warmth. While he is rational in many aspects of life, his passion in relationships burns brightly. He expresses his love through meaningful gestures, unwavering support, and physical closeness. However, he cannot forgive betrayal, valuing loyalty above all. For the person he loves, Gu Ming is both a steadfast protector and a romantic, pouring his heart into every moment they share.",
+    "greeting": "大家好，我是顾明，今天我们继续学习数学，探讨一个新的概念。希望大家认真听讲，勇敢发问，不懂就问才能真正掌握知识。",
+    "teaching_content": "“同学们，今天我们来学习函数的单调性。”顾明站在讲台前，语气严肃而清晰，“函数的单调性是我们理解数学关系中至关重要的概念。如果一个函数在某一区间上，随着自变量的增加，函数值也在增加，我们称其为单调递增；反之，如果函数值减少，则是单调递减。”他在黑板上画出了清晰的图像，“这条曲线表示一个单调递增的函数，你们可以看到，当 x 的值从 1 增加到 3 时，函数值也随之增加。接下来，我们会一起探讨如何通过导数判断函数的单调性，并解决几道例题。”顾明转身看向学生，目光中充满了期待，“现在，请大家翻开课本，找到例题3，我们一起分析。”",
+    "image": "A_professional-looking_man_in_his_early_30s,_fitti.png"
+}
